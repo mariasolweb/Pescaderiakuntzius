@@ -214,18 +214,6 @@ div ul li {
     margin: 10px;
 }
 
-#productos .galeria {
-    margin: 20px;
-    display: flex;
-    justify-content: space-evenly;
-}
-
-#productos .galeria figure {
-    text-align: center;
-    width: 30%;
-}
-
-
 /*grid*/
 /****grid pag productos****/
 
@@ -261,8 +249,9 @@ div ul li {
     background-color:rgba(255, 255, 0, 0.572);
     border: solid rgba(128, 128, 128, 0.486);
     }
+
 .card_prod{
-    font-family: ;
+    font-family: 'Roboto', sans-serif;
 }
 
 
@@ -273,7 +262,7 @@ div ul li {
     background-color: rgb(18, 52, 116);
     width: 100%;
 }
-image
+
 .sizeimg{
     width: 100%;
     
@@ -339,7 +328,7 @@ image
             "three"
             "four"
             "five"
-             "six";
+            "six";
 
     }
 }
